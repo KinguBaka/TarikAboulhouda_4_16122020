@@ -337,6 +337,10 @@ a:hover {
     background: transparent;
 }
 
+.nav > li a:active {
+    background : #F3976C;
+}
+
 .navbar-toggle {
     margin: 10px 10px 0 0;
     border: 0px;
